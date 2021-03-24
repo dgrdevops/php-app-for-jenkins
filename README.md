@@ -1,1 +1,0 @@
-# php-app-for-jenkins
